@@ -1,9 +1,13 @@
-![Banner Image](https://your-image-url.com/image.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chandrashekhard17/chandrashekhard17/main/images%20(2).jpeg" alt="Banner Image" width="400" height="200">
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Chandrashekhar D</h1>
 <h3 align="center">A passionate Data Enthusiast with expertise in Machine Learning, based in India.</h3>
 <h3 align="center"> [📊 Data Science | 📈 Machine Learning | 🔍 Analytics]</h3>
+
+(img align="right" alt="Coding" width="400" src="
 
 
 
