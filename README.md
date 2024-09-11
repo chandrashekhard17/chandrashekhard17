@@ -1,13 +1,18 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chandrashekhard17/chandrashekhard17/main/images%20(2).jpeg" alt="Banner Image" width="400" height="200">
+  <img src="https://raw.githubusercontent.com/chandrashekhard17/chandrashekhard17/main/images%20(2).jpeg" alt="Banner Image" style="width:80%; height:auto;">
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Chandrashekhar D</h1>
 <h3 align="center">A passionate Data Enthusiast with expertise in Machine Learning, based in India.</h3>
 <h3 align="center"> [📊 Data Science | 📈 Machine Learning | 🔍 Analytics]</h3>
 
-<img align="left" alt="Coding" width="400" src="https://github.com/chandrashekhard17/chandrashekhard17/blob/main/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif?raw=true">
+
+<p align="center">
+  <img alt="Coding" width="600" height="400" src="https://github.com/chandrashekhard17/chandrashekhard17/blob/main/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif?raw=true">
+</p>
+
 
 
 
