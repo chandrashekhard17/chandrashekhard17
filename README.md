@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **chandrashekhard543@gmail.com**
 
-- ⚡  Fact **: Did you know that the average person generates around 1.7 megabytes of data every second? That’s a lot of data to analyze! As a data**
+- ⚡  Fun Fact **: Did you know that the average person generates around 1.7 megabytes of data every second? Imagine analyzing all that data! 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
