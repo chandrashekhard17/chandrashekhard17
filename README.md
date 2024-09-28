@@ -21,7 +21,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandrashekhard17" alt="chandrashekhard17" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chandra8050266" target="blank"><img src="https://img.shields.io/twitter/follow/chandra8050266?logo=twitter&style=for-the-badge" alt="chandra8050266" /></a> </p>
 
 - 🌱 I’m currently learning **- Data Science**
 
@@ -36,7 +35,6 @@
 <a href="https://twitter.com/chandra8050266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandra8050266" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chandrashekhar-d-6681b9269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrashekhar-d-6681b9269" height="30" width="40" /></a>
 <a href="https://instagram.com/chandrashekhar_d_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrashekhar_d_17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chandrashekhar_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chandrashekhar_d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
