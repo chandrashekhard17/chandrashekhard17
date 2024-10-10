@@ -6,9 +6,6 @@
 <h3 align="center">A passionate Data Scientist in the making, with a focus on Machine Learning and Analytics, based in India.</h3>
 <h3 align="center"> [📊 Data Science | 📈 Machine Learning | 🔍 Analytics]</h3>
 
-<p align="center">
-  <img alt="Coding" width="600" height="400" src="https://github.com/chandrashekhard17/chandrashekhard17/blob/main/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif?raw=true">
-</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=chandrashekhard17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
