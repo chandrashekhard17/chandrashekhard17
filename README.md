@@ -19,8 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chandra8050266" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chandrashekhar-d-6681b9269" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chandrashekhar-ds" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Chandrashekhar%20D-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/chandrashekhar-d-6681b9269)
 
 <h3 align="left">Skills and Tools:</h3>
 <p align="left">
