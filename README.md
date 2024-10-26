@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chandrashekhard17/chandrashekhard17/main/images%20(2).jpeg" alt="Banner Image" style="width:80%; height:auto;">
+  <img src="WhatsApp Image 2024-10-26 at 09.48.13_6c31de68.jpg" alt="Banner Image" style="width:80%; height:auto;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Chandrashekhar D</h1>
