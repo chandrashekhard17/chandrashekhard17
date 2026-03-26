@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71" alt="Data Engineering Banner" width="80%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Chandrashekhar D</h1>
 <h3 align="center">🚀 Data Engineer | Building Scalable & Real-Time Data Systems</h3>
 
@@ -14,6 +18,14 @@
 - ☁️ Exploring **Cloud Architecture & Distributed Systems**  
 - 💡 Strong backend foundation with **Java (Spring Boot, Hibernate)**  
 - ⚡ Passionate about designing systems that handle **high-volume, low-latency data**
+
+---
+
+## 🚀 Current Focus
+- 🔄 Building **Real-Time Data Pipelines**
+- 📡 Working with **Streaming Systems & APIs**
+- ☁️ Learning **AWS, Kafka, Spark**
+- ⚡ Improving **System Design for Scalability**
 
 ---
 
@@ -101,7 +113,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekhard17&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=chandrashekhard17&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
